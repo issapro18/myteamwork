@@ -4,4 +4,5 @@ Issa's first file
 
 name = "Issa"
 nickname = "issapro18"
-print(name, nickname)
+text = "HELLO!"
+print(name, nickname, text)
