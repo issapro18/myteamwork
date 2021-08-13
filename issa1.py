@@ -3,4 +3,5 @@ Issa's first file
 """
 
 name = "Issa"
-print(name)
+nickname = "issapro18"
+print(name, nickname)
